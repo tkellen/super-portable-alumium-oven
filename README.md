@@ -12,7 +12,10 @@ There are a lot of things we’d change about the design if we did it again (and
 4. The door latching mechanism is sort of fiddly, and there isn’t really any way to work around it (short of changing the design).
 5. After the oven is hot, you’ll want to run your stove on the lowest setting possible, otherwise you’ll probably burn the bottom of what you’re cooking.  The whole oven really ought to be a touch taller so the food can be moved further from the diffuser plate.
 
-## A Few Journals Featuring Our Oven:
+## Download CAD Files Here
+https://github.com/downloads/tkellen/super-portable-alumium-oven/super-portable-alumium-oven.zip
+
+### A Few Journals Featuring Our Oven:
 * http://journal.goingslowly.com/2008/12/backpacker-oven/
 * http://journal.goingslowly.com/2008/12/backpacking-oven-prototype/
 * http://journal.goingslowly.com/2008/12/ultralight-backpacking-oven/
@@ -20,6 +23,3 @@ There are a lot of things we’d change about the design if we did it again (and
 * http://journal.goingslowly.com/2009/05/our-new-life/
 * http://journal.goingslowly.com/2009/08/camp-cookies/
 * http://journal.goingslowly.com/2010/03/macro-love/
-
-### Download Files Here
-https://github.com/downloads/tkellen/super-portable-alumium-oven/super-portable-alumium-oven.zip
