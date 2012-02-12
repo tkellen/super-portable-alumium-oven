@@ -1,4 +1,4 @@
-# Ultra-Portable Aluminum Oven
+# Super Portable Aluminum Oven
 
 This repository contains 3D SolidWorks and DXF files for a portable aluminum oven that my wife and I designed and fabricated for use on a [two year bicycle tour around the world](http://www.goingslowly.com/).  We heated it using the venerable [MSR WhisperLite](http://cascadedesigns.com/msr/stoves/simple-cooking/whisperlite-international-2012/product) stove.
 
