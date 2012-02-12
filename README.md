@@ -20,3 +20,6 @@ There are a lot of things we’d change about the design if we did it again (and
 * http://journal.goingslowly.com/2009/05/our-new-life/
 * http://journal.goingslowly.com/2009/08/camp-cookies/
 * http://journal.goingslowly.com/2010/03/macro-love/
+
+### Download Files Here
+https://github.com/downloads/tkellen/super-portable-alumium-oven/super-portable-alumium-oven.zip
